@@ -1,7 +1,4 @@
 > [!NOTE]
-> API de previsão [API Docs](https://previsao-vendas-api-staging-dtm4k4jetq-rj.a.run.app/docs#/).
-
-> [!NOTE]
 > Site com chamada da API de previsão e análise de LLM [Streamlit](https://previsao-vendas-streamlit-app-115310441149.southamerica-east1.run.app/).
 
 # Sistema de Previsão e Otimização de Vendas Varejistas
@@ -96,6 +93,9 @@ Para testar a API no seu ambiente local usando Docker:
     A API estará acessível em `http://127.0.0.1:8000`.
 
 ## 7. Acessando e Testando a API
+
+> [!NOTE]
+> API de previsão [API Docs](https://previsao-vendas-api-staging-dtm4k4jetq-rj.a.run.app/docs#/).
 
 Com a API rodando localmente (Docker) ou implantada no Cloud Run, você pode testá-la:
 
