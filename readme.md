@@ -1,5 +1,5 @@
 > [!NOTE]
-> API [API Docs](https://previsao-vendas-api-staging-dtm4k4jetq-rj.a.run.app/docs#/).
+> API de previsão [API Docs](https://previsao-vendas-api-staging-dtm4k4jetq-rj.a.run.app/docs#/).
 
 > [!NOTE]
 > Site com chamada da API de previsão e análise de LLM [Streamlit](https://previsao-vendas-streamlit-app-115310441149.southamerica-east1.run.app/).
