@@ -112,7 +112,7 @@ Com a API rodando localmente (Docker) ou implantada no Cloud Run, você pode tes
     ```
     *Substitua pela URL local (`http://127.0.0.1:8000`) ou pela URL do seu serviço Cloud Run (`https://previsao-vendas-api-staging-dtm4k4jetq-rj.a.run.app`).*
 
-## 9. Insights e Recomendações Gerados
+## 8. Insights e Recomendações Gerados
 
 O projeto não apenas prevê vendas, mas também gera insights acionáveis para otimização de estoque e promoções. Você pode encontrar a lógica para esses insights nos notebooks ou na saída dos scripts de desenvolvimento.
 
@@ -120,7 +120,7 @@ O projeto não apenas prevê vendas, mas também gera insights acionáveis para 
 * **Recomendações de Estoque:** Sugestões para `Aumentar`, `Reduzir` ou `Manter` estoque em semanas/lojas/departamentos específicos com base nos desvios das vendas previstas.
 * **Recomendações de Promoções:** Análise do impacto histórico de diferentes `MarkDowns` e feriados nas vendas, com sugestões estratégicas para otimizar campanhas futuras.
 
-## 10. Próximos Passos (Potenciais Futuros)
+## 9. Próximos Passos
 
 Para aprimorar ainda mais e operacionalizar o sistema em um ambiente de produção completo, os seguintes pontos podem ser considerados:
 
