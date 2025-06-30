@@ -65,7 +65,7 @@ Siga estes passos para configurar seu ambiente de desenvolvimento e instalar as 
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone 'ESSE REPO'
+    git clone git@github.com:angelopborges/previsao-vendas.git
     cd projeto_previsao_vendas
     ```
 2.  **Crie e Ative o Ambiente Virtual:**
